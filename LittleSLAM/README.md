@@ -20,3 +20,6 @@ cd LittleSLAM/build/cui
 ./LittleSLAM ../../dataset/corridor.lsc
 ```
 GUIの画面が出てSLAMで地図を作る様子が確認できれば成功.
+
+# 参考記事
+[Docker + macでLittleSLAMを動かす](https://qiita.com/tuttieee/items/488e09e667d2b4391225)
