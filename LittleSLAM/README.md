@@ -11,7 +11,7 @@
 1. Dockerfileのビルド `docker build -t little_slam .`
 2. dockerコンテナのビルド
 ```
-docker run -it -e DISPLAY=docker.for.mac.localhost:0 --name little_slam /bin/bash
+docker run -it -e DISPLAY=docker.for.mac.localhost:0 --name little_slam little_slam /bin/bash
 ```
 
 デモは以下の方法で動かせます.
